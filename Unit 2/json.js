@@ -1,5 +1,5 @@
 const device = {
-    sensonModel: "HC0",
+    sensonModel: "HC0" ,
     count: 0,
     date: new Date(),
 };
